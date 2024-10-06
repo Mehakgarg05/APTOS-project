@@ -1,0 +1,10 @@
+[package]
+name = "aptos_project"
+version = "0.1.0"
+authors = ["Mehak <mehak.g1205@gmail.com>"]
+license = "Apache-2.0"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", rev = "main" }
+
+
